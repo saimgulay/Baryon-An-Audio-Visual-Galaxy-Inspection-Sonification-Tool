@@ -1,0 +1,157 @@
+Baryon — A Galaxy Inspector & Sonification Tool
+Copyright (c) 2026 Saim Gülay. All rights reserved.
+
+================================================================================
+BARYON NON-COMMERCIAL ATTRIBUTION LICENSE
+Version 1.0, April 2026
+
+This license is based on Creative Commons Attribution-NonCommercial 4.0
+International (CC BY-NC 4.0) with two additional, binding clauses
+(Sections 5 and 6). In case of conflict between this document and the
+underlying CC BY-NC 4.0 text, this document prevails.
+================================================================================
+
+1. DEFINITIONS
+
+   "The Work" means the software, source code, documentation, embedded
+   data tables, audio engine, rendering pipeline, sonification mappings,
+   linear-regression solver, and all wiki pages distributed in this
+   repository under the project name "Baryon".
+
+   "Author" means Saim Gülay (gulaysaim@hotmail.com).
+
+   "You" means the individual or entity exercising rights under this
+   license.
+
+   "Commercial Use" means any use that is primarily intended for or
+   directed toward commercial advantage or monetary compensation,
+   including but not limited to: incorporation into paid products or
+   services; use inside an organisation that charges for the resulting
+   output; advertising; consulting deliverables; and training of models
+   that will be sold, licensed, or used to provide a paid service.
+
+2. GRANT OF RIGHTS (NON-COMMERCIAL)
+
+   Subject to the terms below, the Author grants You a worldwide,
+   royalty-free, non-exclusive, perpetual (for the duration of the
+   applicable copyright) license to:
+
+     a. reproduce and share the Work, in whole or in part, for
+        Non-Commercial purposes;
+     b. produce, reproduce and share Adapted Material (modifications,
+        translations, derivative works) for Non-Commercial purposes;
+     c. use the Work for academic research, teaching, journalism,
+        personal study, and artistic projects that are not Commercial Use.
+
+3. MANDATORY ATTRIBUTION (APPLIES TO ALL USES, INCLUDING NON-COMMERCIAL)
+
+   Attribution is REQUIRED for every use of the Work, including all
+   Non-Commercial uses. You MUST:
+
+     a. retain this LICENSE file unmodified in any redistribution of the
+        Work or any substantial portion of it;
+     b. provide visible attribution in any publication, presentation,
+        recording, broadcast, exhibition, dataset, model, software, or
+        derivative work that uses, depends on, was generated with, or
+        was substantially informed by the Work, in the form:
+
+            "Built with Baryon — A Galaxy Inspector & Sonification Tool
+             by Saim Gülay (2026). https://github.com/<repo-url>"
+
+        or, in academic contexts, the citation in CITATION.cff;
+     c. not remove or obscure any existing copyright, license,
+        authorship, or citation notices in the Work or its outputs;
+     d. clearly indicate any modifications you made, with date and
+        author.
+
+   Failure to provide attribution as required above terminates your
+   rights under this license automatically (see Section 7).
+
+4. NONCOMMERCIAL USE ONLY (UNLESS PERMITTED)
+
+   You MAY NOT exercise any of the rights granted in Section 2 in any
+   manner that constitutes Commercial Use without prior written
+   permission from the Author.
+
+5. COMMERCIAL USE — REQUIRES PRIOR WRITTEN PERMISSION
+
+   Commercial Use of the Work, in whole or in part, including any
+   Adapted Material, REQUIRES prior, explicit, written permission from
+   the Author. Permission may be requested by email to
+   gulaysaim@hotmail.com and must be granted in writing before any
+   Commercial Use begins. The Author may set additional terms,
+   including but not limited to royalties, attribution requirements
+   beyond Section 3, scope and duration limits.
+
+   Without such written permission, ALL of the following are
+   prohibited:
+
+     a. selling, sublicensing, or renting the Work or Adapted Material;
+     b. integrating the Work into a paid product, paid service, or
+        paid feature;
+     c. using the Work to provide a service for which You charge,
+        directly or indirectly;
+     d. distributing the Work bundled with advertising;
+     e. using the Work, or any data or model generated with it, to
+        train, fine-tune, or evaluate machine-learning systems whose
+        outputs are sold, licensed, or used commercially.
+
+6. NO MISREPRESENTATION; NO ENDORSEMENT
+
+   You MAY NOT:
+
+     a. imply that the Author endorses You, your project, your
+        organisation, or any Adapted Material, without prior written
+        permission;
+     b. use the name "Baryon", "Saim Gülay", or any associated mark in
+        a way that is misleading as to the origin of derivative works;
+     c. claim authorship of the Work or any unmodified portion of it.
+
+7. TERMINATION
+
+   The rights granted under this license terminate automatically if You
+   fail to comply with any of its terms, including the attribution
+   requirement in Section 3 or the Commercial Use restriction in
+   Section 5. Upon termination, You must immediately cease all use,
+   reproduction and distribution of the Work and destroy all copies in
+   your possession or control, except that copies already lawfully
+   distributed before termination may continue to exist.
+
+   Rights may be reinstated only by written grant from the Author.
+
+8. DISCLAIMER OF WARRANTIES
+
+   THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY OF
+   ASTRONOMICAL DATA OR DERIVED QUANTITIES, AND NONINFRINGEMENT. THE
+   AUTHOR DOES NOT WARRANT THAT THE WORK IS FREE OF DEFECTS, ERRORS,
+   OR LOSS OF AUDIO OR VISUAL FIDELITY.
+
+9. LIMITATION OF LIABILITY
+
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR
+   OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+   OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR
+   THE USE OR OTHER DEALINGS IN THE WORK. THIS INCLUDES, WITHOUT
+   LIMITATION, ANY HEARING DAMAGE FROM IMPROPER AUDIO PLAYBACK SETTINGS;
+   USERS ARE RESPONSIBLE FOR THEIR OWN LISTENING LEVELS.
+
+10. THIRD-PARTY DATA
+
+    The Work embeds and references data from the Sloan Digital Sky
+    Survey (SDSS) and the MPA-JHU value-added catalogue. Use of those
+    data is subject to their own terms; see wiki/13-citations.md.
+    Nothing in this license grants You any rights in third-party data
+    beyond fair-use academic citation.
+
+11. INTERPRETATION
+
+    If any provision of this license is held to be unenforceable, the
+    remainder shall continue in full force and effect. This license
+    constitutes the entire agreement between You and the Author with
+    respect to the Work.
+
+================================================================================
+For commercial-use enquiries: gulaysaim@hotmail.com
+================================================================================

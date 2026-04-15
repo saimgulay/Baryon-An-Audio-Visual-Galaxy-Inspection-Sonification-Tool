@@ -1,0 +1,76 @@
+cff-version: 1.2.0
+message: "If you use Baryon in a publication, presentation, dataset or artistic work, please cite it using the metadata below."
+title: "Baryon: A Galaxy Inspector & Sonification Tool"
+abstract: >
+  Baryon is a single-file, browser-native instrument for inspecting real
+  SDSS galaxy fields and turning them into sound. It bundles a Sérsic +
+  Lupton-asinh renderer, a Web Audio synth with formant filters and a
+  master limiter, a configurable sonification mapping layer, a ridge
+  linear-regression panel for learning input -> output mappings, and a
+  Dijkstra route engine over a k-NN proximity graph.
+type: software
+authors:
+  - family-names: Gülay
+    given-names: Saim
+    email: gulaysaim@hotmail.com
+version: "1.0"
+date-released: "2026-04-15"
+license: "LicenseRef-Baryon-NC-Attribution-1.0"
+license-url: "LICENSE"
+keywords:
+  - sonification
+  - astronomy
+  - SDSS
+  - galaxy
+  - web-audio
+  - data-visualization
+  - ridge-regression
+  - accessibility
+references:
+  - type: data
+    title: "Sloan Digital Sky Survey, Data Release 8"
+    authors:
+      - family-names: Aihara
+        given-names: H.
+    year: 2011
+    journal: "ApJS"
+    volume: 193
+    pages: "29"
+    doi: "10.1088/0067-0049/193/2/29"
+  - type: article
+    title: "Stellar masses and star formation histories for 10^5 galaxies from the SDSS"
+    authors:
+      - family-names: Kauffmann
+        given-names: G.
+    year: 2003
+    journal: "MNRAS"
+    volume: 341
+    pages: "33"
+  - type: article
+    title: "Preparing red-green-blue images from CCD data"
+    authors:
+      - family-names: Lupton
+        given-names: R.
+      - family-names: Blanton
+        given-names: M. R.
+    year: 2004
+    journal: "PASP"
+    volume: 116
+    pages: "133"
+  - type: article
+    title: "Ridge regression: biased estimation for nonorthogonal problems"
+    authors:
+      - family-names: Hoerl
+        given-names: A. E.
+      - family-names: Kennard
+        given-names: R. W.
+    year: 1970
+    journal: "Technometrics"
+    volume: 12
+    pages: "55"
+  - type: standard
+    title: "Algorithms to measure audio programme loudness and true-peak audio level"
+    authors:
+      - name: "International Telecommunication Union"
+    year: 2015
+    number: "ITU-R BS.1770-4"
